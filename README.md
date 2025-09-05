@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hi, this is Raviteja NB
 
-<!--
-**tylerd0211/tylerd0211** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+⚠️ **Note:** This account (`tylerd0211`) is no longer active.  
+All of my future projects, updates, and activity will now be available under my new account:
 
-Here are some ideas to get you started:
+👉 [github.com/ravic8](https://github.com/ravic8)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Why the move?
+I’m consolidating all my important work, experiments, and open-source contributions under **`ravic8`**.  
+If you’ve starred or followed any repos here, they have been transferred to the new account — so please follow me there to stay updated. 🚀
+
+---
+
+## New Profile
+📌 **[Go to my new GitHub profile → ravic8](https://github.com/ravic8)**
